@@ -1,0 +1,2 @@
+vmovdqu- v vector mov-mov dqu-double quadword
+vpaddq 
